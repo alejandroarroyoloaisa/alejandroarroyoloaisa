@@ -7,7 +7,9 @@
 ### 🚀 Sobre mí  
 Soy un **Ingeniero Informático** con formación en **Sistemas de Información**. Me apasiona crear soluciones tecnológicas escalables y usables, aplicar **Machine Learning** y **NLP**, y trabajar en equipos multidisciplinares para innovar y resolver problemas complejos.
 
+<!-- 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroarroyoloaisa&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&custom_title=Lenguajes%20m%C3%A1s%20usados%20en%20GitHub" height="150" alt="languages graph" /> </div>
+-->
 
 ---
 
